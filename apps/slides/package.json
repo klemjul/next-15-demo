@@ -11,7 +11,7 @@
   "dependencies": {
     "@slidev/cli": "^0.50.0-beta.5",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
+    "@slidev/theme-apple-basic": "latest",
     "vue": "^3.5.12"
   }
 }

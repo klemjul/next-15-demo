@@ -35,17 +35,3 @@ node_modules
 
 # Debug
 npm-debug.log*
-
-# IDE
-.idea/*
-.project
-.classpath
-*.launch
-*.sublime-workspace
-
-.vscode/
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
