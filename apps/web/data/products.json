@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone 128GB",
+    "title": "6.1-inch Display, 128GB Storage",
+    "description": "Latest smartphone with high resolution display, fast processing speed, and long battery life.",
+    "price": 399.99
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "title": "True Wireless, Noise Cancelling",
+    "description": "Premium wireless earbuds offering superior sound quality, noise cancellation, and long-lasting battery.",
+    "price": 79.99
+  },
+  {
+    "id": 3,
+    "name": "Laptop - 16GB RAM",
+    "title": "15-inch Screen, 512GB SSD",
+    "description": "Sleek and powerful laptop designed for productivity, featuring high-resolution screen and fast processing speed.",
+    "price": 699.99
+  },
+  {
+    "id": 4,
+    "name": "Portable Bluetooth Speaker",
+    "title": "IPX7 Waterproof, 20 Hour Battery",
+    "description": "Compact and waterproof Bluetooth speaker with excellent sound quality and up to 20 hours of battery life.",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "title": "Fitness Tracking, Heart Rate Monitor",
+    "description": "Smartwatch with fitness tracking features, heart rate monitor, sleep analysis, and smartphone notifications.",
+    "price": 119.99
+  },
+  {
+    "id": 6,
+    "name": "Cordless Vacuum Cleaner",
+    "title": "Strong Suction, Lightweight",
+    "description": "Lightweight and powerful cordless vacuum with multiple cleaning modes and long battery life.",
+    "price": 149.99
+  },
+  {
+    "id": 7,
+    "name": "Electric Kettle",
+    "title": "1.7L, Stainless Steel, Auto Shut-off",
+    "description": "High-quality electric kettle with fast boiling and auto shut-off feature for safety.",
+    "price": 29.99
+  },
+  {
+    "id": 8,
+    "name": "Air Fryer",
+    "title": "4.5L Capacity, 1700W",
+    "description": "Healthy cooking appliance that fries, bakes, grills, and roasts with little to no oil.",
+    "price": 79.99
+  },
+  {
+    "id": 9,
+    "name": "Cordless Electric Drill",
+    "title": "Variable Speed, Rechargeable Battery",
+    "description": "Versatile electric drill with adjustable speed settings, perfect for DIY projects and home repairs.",
+    "price": 59.99
+  },
+  {
+    "id": 10,
+    "name": "4K TV",
+    "title": "55-inch, Smart TV",
+    "description": "Ultra HD 4K TV with smart features, voice control, and access to streaming apps like Netflix and YouTube.",
+    "price": 499.99
+  },
+  {
+    "id": 11,
+    "name": "Microwave Oven",
+    "title": "Compact, 900W",
+    "description": "Compact microwave oven with 900W power, 6 pre-set cooking modes, and easy-to-clean interior.",
+    "price": 69.99
+  },
+  {
+    "id": 12,
+    "name": "Electric Pressure Cooker",
+    "title": "6 Quart, Multi-Cooking Functions",
+    "description": "Multi-functional electric pressure cooker perfect for fast cooking, slow cooking, and rice cooking.",
+    "price": 49.99
+  },
+  {
+    "id": 13,
+    "name": "Gaming Headset",
+    "title": "Noise Cancelling, Surround Sound",
+    "description": "High-quality gaming headset with noise-canceling mic, surround sound, and adjustable headband for comfort.",
+    "price": 39.99
+  },
+  {
+    "id": 14,
+    "name": "Digital Camera",
+    "title": "12MP, 1080p Video Recording",
+    "description": "Compact digital camera with a 12MP lens and the ability to record full HD 1080p video.",
+    "price": 99.99
+  },
+  {
+    "id": 15,
+    "name": "Electric Toothbrush",
+    "title": "Rechargeable, 2 Brush Modes",
+    "description": "Rechargeable electric toothbrush with two cleaning modes for a superior clean and long-lasting battery.",
+    "price": 29.99
+  },
+  {
+    "id": 16,
+    "name": "Standing Desk",
+    "title": "Adjustable Height, Ergonomic",
+    "description": "Ergonomic standing desk with adjustable height settings to improve posture and comfort during work.",
+    "price": 179.99
+  },
+  {
+    "id": 17,
+    "name": "Portable Power Bank",
+    "title": "10,000mAh Capacity, Fast Charging",
+    "description": "Portable power bank with fast charging capabilities, designed to keep your devices charged on the go.",
+    "price": 25.99
+  },
+  {
+    "id": 18,
+    "name": "Wireless Charger",
+    "title": "Fast Charging for All Phones",
+    "description": "Sleek wireless charging pad that supports fast charging for most smartphones and other devices.",
+    "price": 19.99
+  },
+  {
+    "id": 19,
+    "name": "Yoga Mat",
+    "title": "Non-Slip, Eco-Friendly",
+    "description": "Durable, non-slip yoga mat made from eco-friendly materials, perfect for home workouts and yoga sessions.",
+    "price": 24.99
+  },
+  {
+    "id": 20,
+    "name": "Electric Heater",
+    "title": "Portable, Adjustable Temperature",
+    "description": "Compact electric heater with adjustable temperature settings and energy-efficient heating for small rooms.",
+    "price": 39.99
+  },
+  {
+    "id": 21,
+    "name": "Outdoor Grill",
+    "title": "Charcoal Grill, 22-inch",
+    "description": "Classic 22-inch charcoal grill perfect for outdoor grilling with ample cooking space and adjustable airflow.",
+    "price": 79.99
+  },
+  {
+    "id": 22,
+    "name": "Bedding Set",
+    "title": "Queen Size, 100% Cotton",
+    "description": "Soft and breathable queen-size bedding set made from high-quality 100% cotton material.",
+    "price": 49.99
+  },
+  {
+    "id": 23,
+    "name": "Kitchen Knife Set",
+    "title": "6-piece, Stainless Steel Blades",
+    "description": "Premium kitchen knife set with stainless steel blades and ergonomic handles for easy use and precision.",
+    "price": 39.99
+  },
+  {
+    "id": 24,
+    "name": "Wall Art",
+    "title": "Abstract Canvas Painting",
+    "description": "Modern abstract wall art printed on canvas, perfect for adding style and personality to any room.",
+    "price": 39.99
+  },
+  {
+    "id": 25,
+    "name": "Fitness Resistance Bands",
+    "title": "Set of 5, Adjustable Tension",
+    "description": "Set of 5 resistance bands with varying tensions, perfect for strength training and mobility exercises.",
+    "price": 19.99
+  },
+  {
+    "id": 26,
+    "name": "Backpack",
+    "title": "Waterproof, Laptop Compartment",
+    "description": "Durable and waterproof backpack with a dedicated laptop compartment and ample storage space for essentials.",
+    "price": 39.99
+  },
+  {
+    "id": 27,
+    "name": "Cordless Handheld Vacuum",
+    "title": "Lightweight, Powerful Suction",
+    "description": "Cordless handheld vacuum with powerful suction, perfect for quick clean-ups around the house or car.",
+    "price": 49.99
+  },
+  {
+    "id": 28,
+    "name": "Shoe Rack",
+    "title": "3-Tier, Adjustable",
+    "description": "Space-saving shoe rack with 3 tiers, adjustable shelves to fit various shoe sizes and styles.",
+    "price": 29.99
+  },
+  {
+    "id": 29,
+    "name": "Folding Chair",
+    "title": "Portable, Lightweight",
+    "description": "Lightweight folding chair, easy to store and transport, ideal for outdoor events or extra seating.",
+    "price": 19.99
+  },
+  {
+    "id": 30,
+    "name": "Air Purifier",
+    "title": "HEPA Filter, 3-Speed",
+    "description": "Air purifier with a HEPA filter and 3-speed settings, designed to improve air quality and remove allergens.",
+    "price": 89.99
+  }
+]
