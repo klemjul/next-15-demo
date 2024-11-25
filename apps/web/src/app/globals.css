@@ -74,14 +74,15 @@ body {
 h1 {
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 h2 {
   font-size: 1.5rem;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
-blockquote {
+
+.blogpost blockquote {
   font-style: italic;
   border-left: 4px solid #ddd;
   padding-left: 1rem;
@@ -89,15 +90,15 @@ blockquote {
   margin-right: 0;
   font-size: 1.125rem;
 }
-ul {
+.blogpost ul {
   padding-left: 2rem;
   margin-bottom: 1.5rem;
 }
-ul li {
+.blogpost ul li {
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 0.5rem;
 }
-p {
+.blogpost p {
   margin-bottom: 0.5rem;
 }

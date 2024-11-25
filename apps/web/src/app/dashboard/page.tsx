@@ -2,10 +2,10 @@
 
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent } from "@radix-ui/react-tabs";
-import { readPayments } from "../actions/payments/actions";
 import { useState, useEffect, useMemo } from "react";
-import { Payment } from "../actions/payments/model";
-import { PaymentsTable } from "./payment-table/table";
+import { Payment } from "@/lib/model";
+import { PaymentsTable } from "@/components/payment-table";
+import { readPayments } from "../../actions/payments";
 
 export default function DashboardPage() {
   const [payments, setPayments] = useState<Payment[]>([]);

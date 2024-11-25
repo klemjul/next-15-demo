@@ -1,6 +1,5 @@
+import { getPostHtml, getPostNames } from "@/actions/blog";
 import { notFound } from "next/navigation";
-import { getPostHtml, getPostNames } from "../actions";
-
 // Next.js will invalidate the cache when a
 // request comes in, at most once every 60 seconds.
 export const revalidate = 10;

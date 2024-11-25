@@ -1,4 +1,3 @@
-import { readProduct } from "@/app/api/products/actions";
 import { Button } from "@/components/ui/button";
 import Form from "next/form";
 import {
@@ -9,7 +8,8 @@ import {
   CardFooter,
 } from "@/components/ui/card";
 import { notFound } from "next/navigation";
-import { addPayment } from "@/app/actions/payments/actions";
+import { addPayment } from "@/actions/payments";
+import { readProduct } from "@/actions/products";
 
 export default async function ProductPage({
   params,
