@@ -1,27 +1,76 @@
 ---
 theme: apple-basic
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
 title: Next 15 demo
-# apply unocss classes to the current slide
-# https://sli.dev/features/drawing
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+layout: center
 ---
 
 # Next.js
 
-Presentation slides for developers
+## Un framework React pour le Web
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
+<div class="abs-br m-6 flex gap-2">
+  <a href="https://github.com/klemjul/next-15-demo" target="_blank" alt="GitHub" title="Open in GitHub"
+    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
+    <carbon-logo-github />
+  </a>
+</div>
 
 ---
-src: ./pages/imported-slides.md
+src: ./pages/core-features.md
+---
+
+---
+src: ./pages/routing.md
+---
+
+---
+src: ./pages/rendering-methods.md
+---
+
+---
+src: ./pages/csr.md
+---
+
+---
+src: ./pages/ssr.md
+---
+
+---
+src: ./pages/ssg.md
+---
+
+---
+src: ./pages/isr.md
+---
+
+---
+src: ./pages/api-routes.md
+---
+
+---
+src: ./pages/server-actions.md
+---
+
+---
+src: ./pages/static-optimisations.md
+---
+
+---
+src: ./pages/seo-optimisations.md
+---
+
+---
+src: ./pages/caching.md
+---
+
+---
+src: ./pages/middleware.md
+---
+
+---
+src: ./pages/end.md
 ---
